@@ -8,7 +8,7 @@ This is a simple C program that calculates the factorial of a given number using
    Fork this repository to your own GitHub account by clicking the 'Fork' button at the top right of this page.
 
 2. **Clone the Forked Repository:**
-git clone https://github.com/PATILYASHH/factorial-with-
+git clone https://github.com/PATILYASHH/factorial-with-recursion
 
 3. **Compile the Program:**
 ```
